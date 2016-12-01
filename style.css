@@ -8,6 +8,6 @@ h1{
   text-align: center;
 }
 body{
-  document.body.style.background = "#E0FFFF";
+  background-color: #E0FFFF;
   white-space: nowrap;
 }
