@@ -5,6 +5,7 @@ p {
 }
 h1{
   color: darkgreen;
+  text-align: center;
 }
 body{
   white-space: nowrap;
