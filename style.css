@@ -3,11 +3,15 @@ p {
     font-size: 20px;
     text-align: center;
 }
-h1{
+h1 {
   color: darkgreen;
   text-align: center;
 }
-body{
+body {
   background-color: #E0FFFF;
   white-space: nowrap;
+}
+img {
+    display: block;
+    margin: auto;
 }
