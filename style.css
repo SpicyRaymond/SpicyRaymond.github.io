@@ -15,7 +15,10 @@ img {
     display: block;
     margin: auto;
 }
-
 iframe {
-	margin-left: 0;
+    position: absolute;
+    margin: auto;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
 }
