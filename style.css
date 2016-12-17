@@ -16,4 +16,6 @@ img {
     margin: auto;
 }
 
-<iframe style="float:middle">
+iframe {
+	margin-left: 0;
+}
